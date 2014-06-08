@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera Data Science Specialisations
+Coursera Data Science Specialisation
